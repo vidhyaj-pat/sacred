@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sacred Pages</string>
+    <string name="title_activity_main">Sacred Pages</string>
+    <string name="package_name">app.sacredpages.reader</string>
+    <string name="custom_url_scheme">app.sacredpages.reader</string>
+</resources>

@@ -1,0 +1,16 @@
+{
+  "name": "sacred-pages-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Capacitor Android wrapper for the Sacred Pages reading app",
+  "scripts": {
+    "sync": "cap sync android",
+    "open": "cap open android",
+    "build:apk": "cd android && ./gradlew assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.4.1",
+    "@capacitor/cli": "^8.4.1",
+    "@capacitor/core": "^8.4.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "appId": "app.sacredpages.reader",
+  "appName": "Sacred Pages",
+  "webDir": "www",
+  "backgroundColor": "#faf7f0",
+  "server": {
+    "url": "https://soul-reads.lovable.app",
+    "androidScheme": "https",
+    "cleartext": false
+  }
+}
